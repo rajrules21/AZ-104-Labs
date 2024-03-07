@@ -58,7 +58,7 @@ This repository includes a series of labs covering various topics related to Azu
     - Create a custom RBAC role.
     - Monitor role assignments with the Activity Log.
 
-### Section 2: Create and Manage Azure Resources using management tools (20–25%)
+### Section 2: Create and Manage Azure Resources using management tools
 
 - Task 1: Create an Azure Resource Manager template.
 - Task 2: Edit an Azure Resource Manager template and redeploy the template.
