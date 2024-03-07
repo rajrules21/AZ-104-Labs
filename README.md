@@ -14,9 +14,9 @@ This repository includes a series of labs covering various topics related to Azu
 
 ### Section 1: Manage Azure identities and governance (20–25%)
 
-#### Sub-Section 1: Manage Microsoft Azure AD users and groups
+#### Sub-Section 1: Manage Microsoft Entra users and groups
 
-- **Lab 1: Creating Users and groups in Microsoft Azure AD**
+- **Lab 1: Creating Users and groups in Microsoft Azure Entra ID**
   - Tasks:
     - Create and configure user accounts.
     - Create groups and add members.
@@ -25,7 +25,7 @@ This repository includes a series of labs covering various topics related to Azu
 - **Lab 2: Configure self-service password reset (SSPR)**
   - Tasks:
 
-- **Lab 3: Managing Microsoft Azure AD Tenants and licenses**
+- **Lab 3: Managing Microsoft Entra ID Tenants and licenses**
   - Tasks:
 
 #### Sub-Section 2: Manage Azure subscriptions and governance
