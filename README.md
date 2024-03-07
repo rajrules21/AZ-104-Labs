@@ -71,8 +71,8 @@ This repository includes a series of labs covering various topics related to Azu
 For additional resources and study materials related to the AZ-104 certification exam, refer to the following:
 
 - [Microsoft Learn: AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator)
-- [Azure Documentation: Azure Administrator Documentation](https://docs.microsoft.com/en-us/azure/administration/)
-- [Official Exam Guide: AZ-104 Exam Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MgRC)
+- [Azure Documentation: Azure Administrator Documentation](https://learn.microsoft.com/en-us/azure/?product=popular)
+- [Official Exam Guide: AZ-104 Exam Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
 
 Happy learning, and best of luck on your journey to becoming a Microsoft Certified Azure Administrator!
 
